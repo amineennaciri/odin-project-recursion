@@ -6,3 +6,4 @@ This project is about practicing the recursion theory using JavaScript.
 By the end of the project, I will have demonstrated skills in recursion thinking using my knowledge around computer science.
 
 Self-reflection and conclusion:
+this was an opportunity to practice recursion and understand how the recursion functions work together with the JS call stack.
